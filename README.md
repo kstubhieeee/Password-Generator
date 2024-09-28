@@ -8,6 +8,4 @@ Password-Generator is a simple and efficient password generator software that le
 - Ensure you have [Node.js](https://nodejs.org/) and npm installed on your system.
 - It is recommended to use a virtual environment to manage dependencies.
 
-### Installation using npm:
-```bash
-npm install password-generator
+
